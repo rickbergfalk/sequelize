@@ -1,27 +1,28 @@
 {
-  "name": "sequelize",
+  "name": "@rickbergfalk/sequelize",
   "description": "Multi dialect ORM for Node.JS",
-  "version": "0.0.0-development",
+  "version": "6.6.4",
   "maintainers": [
     "Sascha Depold <sascha@depold.com>",
     "Jan Aagaard Meier <janzeh@gmail.com>",
     "Daniel Durante <me@danieldurante.com>",
     "Mick Hansen <mick.kasper.hansen@gmail.com>",
     "Sushant Dhiman <sushantdhiman@outlook.com>",
-    "Pedro Augusto de Paula Barbosa <papb1996@gmail.com>"
+    "Pedro Augusto de Paula Barbosa <papb1996@gmail.com>",
+    "Rick Bergfalk <rick.bergfalk@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize.git"
+    "url": "https://github.com/rickbergfalk/sequelize.git"
   },
   "bugs": {
-    "url": "https://github.com/sequelize/sequelize/issues"
+    "url": "https://github.com/rickbergfalk/sequelize/issues"
   },
   "homepage": "https://sequelize.org/",
   "main": "index.js",
   "types": "types",
   "engines": {
-    "node": ">=10.0.0"
+    "node": ">=14.0.0"
   },
   "files": [
     "lib",
